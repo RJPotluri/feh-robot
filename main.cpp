@@ -188,14 +188,10 @@ int main(void)
      Sleep(.2);
 
      /*
-      *
-      *
-      * UPPPPPPPEEEEERRRRRRRRRRRRRRRRRRR LEVEEEEELLLLLLLLLLLLLLLLLLLLLL
-      *
-      *
+      * Upper Level
       * */
 
-     LCD.WriteLine("UPPPPPPPEEEEERRRRRRRRRRRRRRRRRRR LEVEEEEELLLLLLLLLLLLLLLLLLLLLL");
+     LCD.WriteLine("Status: Upper Level");
 
      LCD.WriteLine("Check Heading");
      check_heading(90);
