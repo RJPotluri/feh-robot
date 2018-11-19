@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+  34568	   3424	   5580	  43572	   aa34	../Line_Following.elf

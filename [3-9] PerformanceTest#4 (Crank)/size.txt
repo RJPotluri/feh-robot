@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+  51352	   3424	   5596	  60372	   ebd4	../PT4_Crank.elf
