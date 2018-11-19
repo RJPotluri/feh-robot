@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+  69116	   3424	   6192	  78732	  1338c	../CompRun.elf

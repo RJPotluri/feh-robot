@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+  59712	   3424	   6192	  69328	  10ed0	../TestMagnet.elf

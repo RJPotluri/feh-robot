@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+  66884	   3424	   6180	  76488	  12ac8	../FinalRun.elf
